@@ -30,6 +30,7 @@ As a developer I want to deliver new features fast. I don't want to care about a
 1. ~1k domain entity types
 1. ~10k domain event types and versions
 1. ~1k domain events/s
+1. ~50 projects per tenant
 1. Eventual consistency to clients/consumers
 
 
